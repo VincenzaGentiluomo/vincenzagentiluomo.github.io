@@ -54,14 +54,21 @@ p {
   text-align: justify;
   margin-left: 200px
 }
-
+.topnav3 {
+  width: auto;
+  background-color: white;
+  text-align: center;
+  padding: 50px 20px;
+  margin-left: 0pt;
+}
 .contrabbando {
   width: 30%;
   background-color: white;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   text-align: center;
   padding: 50px 20px;
-  margin-left: 200pt;
+  margin-left: 15pt;
+  margin-right: 20pt;
 }
 .contrabbando2 {
   width: 30%;
@@ -69,7 +76,8 @@ p {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   text-align: center;
   padding: 50px 20px;
-  margin-left: 200pt;
+  margin-left: 15pt;
+  margin-right: 20pt;
 }
 
 .second {
@@ -93,7 +101,12 @@ p {
 text-align: justify;
 font-size: 20pt;
 }
-
+.topnav5{
+  width: auto;
+  background-color: white;
+  padding: 50px 20px;
+  margin-left: 0pt ;  
+}
 .bagnara111 {
   width: 30%;
   background-color: white;
@@ -124,7 +137,8 @@ font-size: 20pt;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   text-align: center;
   padding: 50px 20px;
-  margin-left: 200pt;
+  margin-left: 15pt;
+  margin-right: 20pt;
 }
 .bagnara12{
   width: 30%;
@@ -134,13 +148,21 @@ font-size: 20pt;
   padding: 50px 20px;
   margin-left: 200pt; 
 }
+.topnav4 {
+  width: auto;
+  background-color: white;
+  text-align: center;
+  padding: 50px 20px;
+  
+}
 .bagnara27{
   width: 30%;
   background-color: white;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   text-align: center;
   padding: 50px 20px;
-  margin-left: 200pt;
+  margin-left: 15pt;
+  margin-right: 20pt;
 }
 .costumi {
   font-family: century;
